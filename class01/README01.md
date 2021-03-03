@@ -1,4 +1,4 @@
-# Mohamamd Abu Mattar
+# Text Editor & CLI
 Choosing a VScode as a mine text editor, it's user friendly, easy to use, as a build-in emmet, my secondary text editor is sublime text 3 for fast retouch for code or chaining some code, faster than VScode in the launch, but VSCode still my mine choose.
 
 CLI or Command Line Interface, it's a defiant way to interact with a computer, best in a command-line same as GUI but faster than GUI and u git in your point, each OS have own Terminal but still, all CLI have similarity in some command line.
