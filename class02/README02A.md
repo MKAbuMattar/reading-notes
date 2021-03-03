@@ -1,0 +1,2 @@
+# Markdown
+Markdown it's a Lightweight Markup Language, a deferent way to style on the have easy syntax to understand and easy to learn, Usually used in GitHub Repositories, in section README, used as small documentation or guideline for the repository, and GitHub community prefer repository have good guideline for a code or an open-source code for software.
