@@ -2,16 +2,16 @@
 
 ## Table of contact
 
--   [Introducing How computer work]()
--   [How Computers Work: What Makes a Computer, a Computer?]()
-    -   [Input]()
-    -   [Storage]()
-    -   [Processing]()
-    -   [Output]()
--   [How Computers Work: Binary & Data]()
--   [How Computers Work: Circuits and Logic]()
--   [How Computers Work: CPU, Memory, Input & Output]()
--   [How Computers Work: Hardware and Software]()
+-   [Introducing How computer work](https://mkabumattar.github.io/reading-notes/class04/READ04B#introducing-how-computer-work)
+-   [How Computers Work: What Makes a Computer, a Computer?](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-what-makes-a-computer-a-computer)
+    -   [Input](https://mkabumattar.github.io/reading-notes/class04/READ04B#input)
+    -   [Storage](https://mkabumattar.github.io/reading-notes/class04/READ04B#storage)
+    -   [Processing](https://mkabumattar.github.io/reading-notes/class04/READ04B#processing)
+    -   [Output](https://mkabumattar.github.io/reading-notes/class04/READ04B#output)
+-   [How Computers Work: Binary & Data](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-binary--data)
+-   [How Computers Work: Circuits and Logic](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-binary--data)
+-   [How Computers Work: CPU, Memory, Input & Output](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-cpu-memory-input--output)
+-   [How Computers Work: Hardware and Software](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-hardware-and-software)
 
 ## Introducing How computer work
 
@@ -59,9 +59,9 @@ A computer will display your output, like photos, videos, games, text...
 
 At now level of language programming, nobody today actually `0` `1` directly.
 
-Number System
-Binary `0 1`
-Decimal `0 1 2 3 4 5 6 7 8 9`
+Number System: 
+-   Binary `0 1`
+-   Decimal `0 1 2 3 4 5 6 7 8 9`
 
 all text, image, video, sound webpage, all this stored as a binary system.
 
