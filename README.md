@@ -9,4 +9,4 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Read: 02a - Learning Markdown         | [Link](https://mkabumattar.github.io/reading-notes/class02/README02A) |
 | Read: 02b - Revisions and the Cloud   | [Link](https://mkabumattar.github.io/reading-notes/class02/README02B) |
 | Read: 03 - Structure web pages with HTML   | [Link](https://mkabumattar.github.io/reading-notes/class03/README03) |
-| Read: 04 - Programming with JavaScript   | [Link](https://mkabumattar.github.io/reading-notes/class04/README04A) |
+| Read: 04 - Programming with JavaScript   | [Link](https://mkabumattar.github.io/reading-notes/class04/READ04A) |
