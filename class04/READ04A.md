@@ -7,6 +7,8 @@
     -   [Examples](https://mkabumattar.github.io/reading-notes/class04/READ04A#examples)
 -   [Script](https://mkabumattar.github.io/reading-notes/class04/READ04A#script)
 -   [Writing a script](https://mkabumattar.github.io/reading-notes/class04/READ04A#writing-a-script)
+-   [Expression](https://mkabumattar.github.io/reading-notes/class04/READ04A#expression)
+-   [Function](https://mkabumattar.github.io/reading-notes/class04/READ04A#function)
 
 ## JavaScript
 
@@ -32,5 +34,30 @@ a script this a flow of stape and instructions a PC can be processing this comma
 
 ## Writing a script
 The first thing you need to know when the event starts and where it's will be affected, and how it started, and you'll realize each script have smaller steps when you write them all start in to define the goal, designing the script, and last step start write your code for each step to achieve your goal.
+
+[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04A#table-of-contact)
+
+## Expression
+like each programming language, JS has an expression and its contact:
+
+```javascript
+variable variable-name = value ;
+```
+
+variable in JS `var` `let` `const`, and in value, you can use string, character, integer, or double, operators helped you to create a single value or multiple values, a have operators defined category, assignment, arithmetic, string, comparison, and logical, for creating each operator you need to something called arithmetic operations.
+
+[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04A#table-of-contact)
+
+## Function
+The function helps you to group a stop of script and strat as of you call a function, as an example if you loading a webpage in loading time you can write a function for changing a title or heading, or showing a pop-message.
+
+```javascript
+function sayHello()
+{
+	document.write('Hello!')
+}
+```
+
+`function` function keyword, `sayHello()` function name, when function need a piece of the specific information it's called a parameter and used inside `()` at the function name, you cand calling a function have a parameter, you have two way to insert a parameter, as direct value, or used variable-name, and after all, that, if you need to show the output of function you need to use a `return`.
 
 [Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04A#table-of-contact)
