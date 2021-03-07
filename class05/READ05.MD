@@ -2,10 +2,9 @@
 
 ## Contact
 
--   [Operators](https://mkabumattar.github.io/reading-notes/class05/READ05#operators)
-    -   [Logical Operators](https://mkabumattar.github.io/reading-notes/class05/READ05#logical-operators)
--   [Loops](https://mkabumattar.github.io/reading-notes/class05/READ05#loops)
-
+-   [Operators](#operators)
+    -   [Logical Operators](#logical-operators)
+-   [Loops](#loops)
 
 ## Operators
 
@@ -27,7 +26,7 @@ You'll assess a situation by contrasting one of the script's characteristics wit
 -   `score` & `pass` operand
 -   `>=` comparison operator
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class05/READ05#contact)
+[Back to Contact](#contact)
 
 ### logical operators
 
@@ -47,7 +46,7 @@ Logical operators:
 -   `||` logical or
 -   `!` logical not
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class05/READ05#contact)
+[Back to Contact](#contact)
 
 ## Loops
 Loops this to repeat a block of code.
@@ -62,4 +61,4 @@ All loops have three characteristics:
 -   `i < 10;` condition
 -   `i++` update
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class05/READ05#contact)
+[Back to Contact](#contact)

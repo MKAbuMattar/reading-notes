@@ -4,7 +4,7 @@
 
 - [JavaScript](#javascript)
     -   [Interactive webpages](#interactive-webpages)
-    -   [Examples](A#examples)
+    -   [Examples](#examples)
 -   [Script](#script)
 -   [Writing a script](#writing-a-script)
 -   [Expression](#expression)

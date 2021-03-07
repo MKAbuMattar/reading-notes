@@ -2,22 +2,22 @@
 
 ## Table of contact
 
--   [Introducing How computer work](https://mkabumattar.github.io/reading-notes/class04/READ04B#introducing-how-computer-work)
--   [How Computers Work: What Makes a Computer, a Computer?](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-what-makes-a-computer-a-computer)
-    -   [Input](https://mkabumattar.github.io/reading-notes/class04/READ04B#input)
-    -   [Storage](https://mkabumattar.github.io/reading-notes/class04/READ04B#storage)
-    -   [Processing](https://mkabumattar.github.io/reading-notes/class04/READ04B#processing)
-    -   [Output](https://mkabumattar.github.io/reading-notes/class04/READ04B#output)
--   [How Computers Work: Binary & Data](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-binary--data)
--   [How Computers Work: Circuits and Logic](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-binary--data)
--   [How Computers Work: CPU, Memory, Input & Output](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-cpu-memory-input--output)
--   [How Computers Work: Hardware and Software](https://mkabumattar.github.io/reading-notes/class04/READ04B#how-computers-work-hardware-and-software)
+-   [Introducing How computer work](#introducing-how-computer-work)
+-   [How Computers Work: What Makes a Computer, a Computer?](#how-computers-work-what-makes-a-computer-a-computer)
+    -   [Input](#input)
+    -   [Storage](#storage)
+    -   [Processing](#processing)
+    -   [Output](#output)
+-   [How Computers Work: Binary & Data](#how-computers-work-binary--data)
+-   [How Computers Work: Circuits and Logic](#how-computers-work-binary--data)
+-   [How Computers Work: CPU, Memory, Input & Output](B#how-computers-work-cpu-memory-input--output)
+-   [How Computers Work: Hardware and Software](#how-computers-work-hardware-and-software)
 
 ## Introducing How computer work
 
 The first step for learning code, this learn how computers work, how components in the computer transfer data between each hardware and software, and you will realize all data transfer in low level `0` `1` all components start as a circuit, all that showing how new live new world of technology in daily future.
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ## How Computers Work: What Makes a Computer, a Computer?
 
@@ -29,31 +29,31 @@ The common thinks for all computers:
 
 The old computer has the same size as the room and takes hours and hours just to do a basic math problem, the old computer starts doing math, but now you can play games, coding, create documents, and do multiple tasks.
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ### Input
 
 The input this a stuff you insert into your computer used keyboard, mouse, microphone, camera, touch screen
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ### Storage
 
 All the input you give a computer will be stored in memory
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ### Processing
 
 All stored data it's will be processing all data to show a piece of information and manipulates and changes in processing using an algorithm and after processed all information and it will be stored in memory.
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ### Output
 
 A computer will display your output, like photos, videos, games, text...
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ## How Computers Work: Binary & Data
 
@@ -65,7 +65,7 @@ Number System:
 
 all text, image, video, sound webpage, all this stored as a binary system.
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ## How Computers Work: Circuits and Logic
 
@@ -73,17 +73,17 @@ all pice of info this represents a `1` `0` for the process it, you need to logic
 
 Simple circuits have `NOT` `AND` `OR` and if you have multiple signals you need more complicated circuits and complex circuits.
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ## How Computers Work: CPU, Memory, Input & Output
  
 all info you insert input will convert to binary and the CPU this will do all calculations and after processing that a piece of info. this reconverts it into a physical output in modern PC have multiple CPU for process all info.
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
 
 ## How Computers Work: Hardware and Software
 
 The computer this computation between hardware and software, it's will give you a video, image, or game, CPU control processing unit master chip controls all part of your PC.
 
 
-[Back to Table of contact](https://mkabumattar.github.io/reading-notes/class04/READ04B#table-of-contact)
+[Back to Table of contact](#table-of-contact)
