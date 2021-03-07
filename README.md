@@ -5,9 +5,15 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 
 | Syntax                                | Link |
 | :------------------------------------:| :---------: |
+| Lab 01                                  |
 | Read: 01 - The Coder's Computer       | [Link](https://mkabumattar.github.io/reading-notes/class01/README01) |
+| Lab 02                                 |
 | Read: 02a - Learning Markdown         | [Link](https://mkabumattar.github.io/reading-notes/class02/README02A) |
 | Read: 02b - Revisions and the Cloud   | [Link](https://mkabumattar.github.io/reading-notes/class02/README02B) |
+| Lab 03                                 |
 | Read: 03 - Structure web pages with HTML   | [Link](https://mkabumattar.github.io/reading-notes/class03/README03) |
+| Lab 04                                  |
 | Read: 04 - Programming with JavaScript   | [Link](https://mkabumattar.github.io/reading-notes/class04/READ04A) |
 | Read: 04b - Computer Architecture and Logic | [Link](https://mkabumattar.github.io/reading-notes/class04/READ04B) |
+| Lab 05                                 |
+| Read: 05 - Operators and Loops | [Link](https://mkabumattar.github.io/reading-notes/class05/READ05) |
