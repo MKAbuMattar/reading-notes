@@ -2,18 +2,18 @@
 
 ## Contact
 
--   [Color](https://mkabumattar.github.io/reading-notes/class06/READ06B#color)
-    -   [RGB values](https://mkabumattar.github.io/reading-notes/class06/READ06B#rgb-values)
-    -   [HEX codes](https://mkabumattar.github.io/reading-notes/class06/READ06B#hex-codes)
-    -   [Color name](https://mkabumattar.github.io/reading-notes/class06/READ06B#color-name)
--   [Background Color](https://mkabumattar.github.io/reading-notes/class06/READ06B#background-color)
--   [Opacity](https://mkabumattar.github.io/reading-notes/class06/READ06B#opacity)
+-   [Color](#color)
+    -   [RGB values](#rgb-values)
+    -   [HEX codes](#hex-codes)
+    -   [Color name](#color-name)
+-   [Background Color](#background-color)
+-   [Opacity](#opacity)
 
 ## Color
 The pages would also be more vibrant if they were colored.
 The color property can be used to adjust the color of text within an element. You can assign any color using CSS in one of three ways:
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class06/READ06B#contact)
+[Back to Contact](#contact)
 
 ### RGB values:
 ```css
@@ -29,7 +29,7 @@ p {
 ```
 RGB stands for red, green, and blue. and RGBA stands for alpha. (opacity).
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class06/READ06B#contact)
+[Back to Contact](#contact)
 
 ### HEX codes:
 
@@ -40,7 +40,7 @@ p {
 ```
 HEX stands for a hexadecimal number.
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class06/READ06B#contact)
+[Back to Contact](#contact)
 
 ### Color name:
 
@@ -50,7 +50,7 @@ p {
 }
 ```
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class06/READ06B#contact)
+[Back to Contact](#contact)
 
 ## Background Color
 
@@ -62,10 +62,10 @@ body {
 }
 ```
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class06/READ06B#contact)
+[Back to Contact](#contact)
 
 ## Opacity
 
 As I previously said, RGBA stands for RGBA, and A stands for alpha(opacity). Another method it's HSL, which stands for hue, saturation, and lightness. HSL also has HSLA, and you guessed it, A stands for alpha(opacity).
 
-[Back to Contact](https://mkabumattar.github.io/reading-notes/class06/READ06B#contact)
+[Back to Contact](#contact)
