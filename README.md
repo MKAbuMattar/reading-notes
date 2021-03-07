@@ -17,3 +17,5 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Read: 04b - Computer Architecture and Logic | [Link](https://mkabumattar.github.io/reading-notes/class04/READ04B) |
 | Lab 05                                 |
 | Read: 05 - Operators and Loops | [Link](https://mkabumattar.github.io/reading-notes/class05/READ05) |
+| Lab 06                                 |
+| Read: 06b - Design web pages with CSS | [Link](https://mkabumattar.github.io/reading-notes/class06/READ06B) |

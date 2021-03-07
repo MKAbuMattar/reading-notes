@@ -3,7 +3,7 @@
 ## Contact
 
 -   [Operators](https://mkabumattar.github.io/reading-notes/class05/READ05#operators)
-    -   [Logical Operators](https://mkabumattar.github.io/reading-notes/class05/READ05#logical_operators)
+    -   [Logical Operators](https://mkabumattar.github.io/reading-notes/class05/READ05#logical-operators)
 -   [Loops](https://mkabumattar.github.io/reading-notes/class05/READ05#loops)
 
 
