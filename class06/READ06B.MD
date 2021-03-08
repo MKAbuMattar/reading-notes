@@ -66,6 +66,6 @@ body {
 
 ## Opacity
 
-As I previously said, RGBA stands for RGBA, and A stands for alpha(opacity). Another method it's HSL, which stands for hue, saturation, and lightness. HSL also has HSLA, and you guessed it, A stands for alpha(opacity).
+As I previously said, RGBA stands for RGBA, and A stands for alpha(opacity). Another method it's HSL, which stands for hue, saturation, and lightness. HSL also has HSLA, and you guessed it A stands for alpha(opacity).
 
 [Back to Contact](#contact)
