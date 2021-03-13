@@ -21,6 +21,7 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 <a href="https://fb.com/mkabumattar" target="blank"><img src="./assets/icons/facebook.png" alt="mkabumattar | Facebook" height="50" width="50" /></a>
 <a href="https://twitter.com/mkabumattar" target="blank"><img src="./assets/icons/twitter.png" alt="mkabumattar | Twitter" height="50" width="50" /></a>
 
+[Back to Content](#content)
 
 ***
 
@@ -43,7 +44,7 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Lab 06                                 |
 | Read: 06b - Design web pages with CSS | [Link](./class06/READ06B) |
 
-[Back to Content](#Content)
+[Back to Content](#content)
 
 ***
 
@@ -58,4 +59,4 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Module 3: Libraries and Local Storage |
 | Module 4: Project Work |
 
-[Back to Content](#Content)
+[Back to Content](#content)
