@@ -55,8 +55,35 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Pre-Work |
 | Read: 01 - Introductory HTML and JavaScript | [Link](./class07/) |
 | Module 1: Introduction to Web Development  |
+| Class 2 - Introduction To Web Development |
+| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Link](./class08/) |
+| Class 3 - Lists, The Box Model, and Loops |
+| Read: 03 - HTML Lists, CSS Boxes, JS Control Flow | [Link](./class09/) |
+| Class 4 - Links, Layouts, and Functions |
+| Read: 04 - HTML Links, CSS Layout, JS Functions | [Link](./class10/) |
+| Class 5 - Images, Color, Text, and More Work With Functions |
+| Read: 05 - HTML Images; CSS Color & Text | [Link](./class11/) |
 | Module 2: The DOM, and Domain Modeling with Object Literals |
+| Class 6 - Domain Modeling, Intro to the DOM, and Object Literal Notation |
+| Read: 06 - JS Object Literals; The DOM | [Link](./class12/) |
+| Class 7 - HTML Tables and JS Constructor Functions |
+| Read: 07 - HTML Tables; JS Constructor Functions | [Link](./class13/) |
+| Class 8 - Forms and Events |
+| Read: 08 - More CSS Layout | [Link](./class14/) |
+| Class 9 - Page Layout |
+| Read: 09 - Forms and Events | [Link](./class15/) |
+| Class 10 - Debugging and Error Handling |
+| Read: 10 - JS Debugging | [Link](./class16/) |
 | Module 3: Libraries and Local Storage |
+| Class 11 - Audio and Video in HTML; Domain Modeling Revisited |
+| Read: 11 - Assorted Topics | [Link](./class17/) |
+| Class 12 - Canvas and ChartJS |
+| Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js | [Link](./class18/) |
+| Class 13 - Introduction to Persistence with Local Storage |
+| Read: 13 - Local Storage | [Link](./class19/) |
+| Class 14 - Documentation, Project Selection, & Team Workflow |
+| Read: 14a - CSS Transforms, Transitions, and Animations | [Link](./class20/a/) |
+| Read: 14b - What Google Learned About Teams | [Link](./class20/b/) |
 | Module 4: Project Work |
 
 [Back to Content](#content)
