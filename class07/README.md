@@ -11,7 +11,7 @@
     - [Structure](#structure)
     - [Extra Markup](#extra-markup)
     - [HTML5 Layout](#html5-layout)
-    - [Process & Design](#process-&-design)
+    - [Process & Design](#process--design)
 - [JavaScrpit](#javascrpit)
     - [JavaScrpit Introduction](#javascrpit-introduction)
     - [The ABC of Programming](#the-abc-of-programming)
