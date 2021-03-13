@@ -30,19 +30,19 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Content                                | Link |
 | :------------------------------------: | :---------: |
 | Lab 01                                  |
-| Read: 01 - The Coder's Computer       | [Link](./class01/README01) |
+| Read: 01 - The Coder's Computer       | [Link](./class01/README) |
 | Lab 02                                 |
 | Read: 02a - Learning Markdown         | [Link](./class02/README02A) |
 | Read: 02b - Revisions and the Cloud   | [Link](./class02/README02B) |
 | Lab 03                                 |
-| Read: 03 - Structure web pages with HTML   | [Link](./class03/README03) |
+| Read: 03 - Structure web pages with HTML   | [Link](./class03/README) |
 | Lab 04                                  |
 | Read: 04 - Programming with JavaScript   | [Link](./class04/READ04A) |
 | Read: 04b - Computer Architecture and Logic | [Link](./class04/READ04B) |
 | Lab 05                                 |
-| Read: 05 - Operators and Loops | [Link](./class05/READ05) |
+| Read: 05 - Operators and Loops | [Link](./class05/README) |
 | Lab 06                                 |
-| Read: 06b - Design web pages with CSS | [Link](./class06/READ06B) |
+| Read: 06b - Design web pages with CSS | [Link](./class06/README) |
 
 [Back to Content](#content)
 
@@ -53,7 +53,7 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Content                                | Link |
 | :------------------------------------: | :---------: |
 | Pre-Work |
-| Read: 01 - Introductory HTML and JavaScript | [Link](./class07/READ07) |
+| Read: 01 - Introductory HTML and JavaScript | [Link](./class07/README) |
 | Module 1: Introduction to Web Development  |
 | Module 2: The DOM, and Domain Modeling with Object Literals |
 | Module 3: Libraries and Local Storage |
