@@ -51,7 +51,11 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 
 | Content                                | Link |
 | :------------------------------------: | :---------: |
-| Lab 01 |
-| test | [test](test) |
+| Pre-Work |
+| Read: 01 - Introductory HTML and JavaScript | [Link](./class07/READ07) |
+| Module 1: Introduction to Web Development  |
+| Module 2: The DOM, and Domain Modeling with Object Literals |
+| Module 3: Libraries and Local Storage |
+| Module 4: Project Work |
 
 [Back to Content](#Content)
