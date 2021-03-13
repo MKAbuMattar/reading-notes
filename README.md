@@ -27,7 +27,7 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 # Code 102 Reading Notes
 
 | Content                                | Link |
-| :------------------------------------:| :---------: |
+| :------------------------------------: | :---------: |
 | Lab 01                                  |
 | Read: 01 - The Coder's Computer       | [Link](./class01/README01) |
 | Lab 02                                 |
@@ -50,6 +50,8 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 # Code 201 Reading Notes
 
 | Content                                | Link |
-| :------------------------------------:| :---------: |
+| :------------------------------------: | :---------: |
+| Lab 01 |
+| test | [test](test) |
 
 [Back to Content](#Content)
