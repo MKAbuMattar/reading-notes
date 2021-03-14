@@ -140,6 +140,7 @@ Operators You'll assess a situation by contrasting one of the script's character
 ```javascript
 (score >= pass )
 ```
+
 -   `()` enclosing brackets
 -   `score` & `pass` operand
 -   `>=` comparison operator
