@@ -5,7 +5,7 @@
 - [HTML](#html)
     - [Text](#text)
     - [Introducing CSS](#introducing-css)
-- [JavaScript](javascript)
+- [JavaScript](#javascript)
     - [Basic JavaScript Instruction](#basic-javascript-instruction)
     - [Decisions and Loops](#decisions-and-loops)
 
