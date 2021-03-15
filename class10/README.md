@@ -6,7 +6,7 @@
     - [Links](#links)
     - [Layout](#layout)
 - [JavaScript](#javascript)
-    - [Functions, Methods, and Objects](#functions,-methods,-and-objects)
+    - [Functions, Methods, and Objects](#functions-methods-and-objects)
 - [Pair Programming](#pair-programming)
     - [Greater efficiency](#greater-efficiency)
     - [Engaged collaboration](#engaged-collaboration)
