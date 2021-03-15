@@ -423,7 +423,7 @@ index.html HTML file
 </html>
 ```
 
-and we discuss declaring function at reading note [Read: 04 - Programming with JavaScript](./class04/READ04A#function)
+and we discuss declaring function at reading note [Read: 04 - Programming with JavaScript](../class04/READ04A#function)
 
 [Back to Content](#content)
 
