@@ -2,12 +2,12 @@
 
 ## Content
 
-- [Domain Modelin](#domain-modeling)
-- [Reference](#reference)
+- [Domain Modelin](#domain-modelin)
 - [HTML & CSS](#html--css)
   - [Tables](#tables)
 - [JavaScript](#javascript)
   - [Functions, Methods, and Objects](#functions-methods-and-objects)
+- [Reference](#reference)
 
 ***
 
