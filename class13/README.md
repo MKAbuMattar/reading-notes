@@ -95,6 +95,8 @@ The contents of the `<table>` are written out row by row `<tr>`. Each cell of a 
 `<thead>` The headings of the table should sit inside the `<thead>` element. `<tbody>` The body should sit inside the `<tbody>` element. `<tfoot>` The footer belongs inside the
 `<tfoot>` element.
 
+[Back to Content](#content)
+
 ## JavaScript
 
 ### Functions, Methods, and Objects
@@ -104,6 +106,8 @@ in a previous reading note [Read: 06 - JS Object Literals; The DOM](../class12/R
 A function is a named piece of code. It can be given data to work with (in the form of parameters) and can also return data (the return value). All data is expressly passed to a function.
 
 A method is a piece of code that is known by an object's name. It should operate on data contained within a class. An object on which a method is called is implicitly passed to it. A method is similar to a function in that it operates on data within the class.
+
+[Back to Content](#content)
 
 ## Reference
 
