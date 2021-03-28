@@ -9,6 +9,7 @@
   - [Applying styles and colors](#applying-styles-and-colors)
   - [Drawing text](#drawing-text)
 - [Reference](#reference)
+
 ***
 
 ## Chart.js
