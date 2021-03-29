@@ -3,7 +3,7 @@
 ## Content
 
 - [TLDR](#tldr)
-- [The Past, Present, and Future of Local Storage for Web Applications](#the-past-Present-and-future-of-local-storage-for-web-applications)
+- [The Past, Present, and Future of Local Storage for Web Applications](#the-past-present-and-future-of-local-storage-for-web-applications)
   - [A Brief History Of Local Storage Hacks Before HTML5](#a-brief-history-of-local-storage-hacks-before-html5)
   - [Introducing HTML5 Storage](#introducing-html5-storage)
   - [Tracking Changes To The HTML5 Storage Area](#tracking-changes-to-the-html5-storage-area)
@@ -19,7 +19,7 @@
 
 One area where native client applications have had an edge over mobile applications is permanent local storage. The operating system usually provides an abstraction layer for saving and accessing application-specific data for native applications. They are limited to around 4 KB of data, which will cause your application to stutter. Microsoft's browser-to-end-all-browser-wars featured Internet Explorer.
 
-D HTML Habits and userData behaviors were added in Internet Explorer. Per domain, web pages can store up to 64 KB of data. There is no permissions dialog in Internet Explorer. There is no provision for increasing the volume of available storage.
+HTML Habits and userData behaviors were added in Internet Explorer. Per domain, web pages can store up to 64 KB of data. There is no permissions dialog in Internet Explorer. There is no provision for increasing the volume of available storage.
 
 Flash objects can hold up to 100 KB of data per domain using Local Shared Objects. HTML5 strives to provide a structured API that can be used in different browsers natively and reliably. Many third-party implementations currently have drastically different interfaces and storage limits. HTML5 Storage allows web sites to save named key/value pairs in the client web browser.
 
