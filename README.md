@@ -4,8 +4,8 @@
 - [About me](#mohammad-abu-mattar)
     - [Connect with me](#connect-with-me)
 - [Code 102 Intro to Software Development](#code-102-intro-to-software-development)
-- [Code 201 Foundations of Software Development](#code-201-foundations-of-Software-Development)
-- [Code 301 Intermediate Software Development](#code-301-intermediate-software-Development)
+- [Code 201 Foundations of Software Development](#code-201-foundations-of-Software-development)
+- [Code 301 Intermediate Software Development](#code-301-intermediate-software-development)
 - [Code 401 Advanced Software Development](#code-401-advanced-software-development)
 
 # Mohammad Abu Mattar
@@ -90,6 +90,8 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 
 [Back to Content](#content)
 
+***
+
 # Code 301 Intermediate Software Development
 
 | Content                                | Link |
@@ -113,6 +115,8 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 
 
 [Back to Content](#content)
+
+***
 
 # Code 401 Advanced Software Development
 
