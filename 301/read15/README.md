@@ -1,4 +1,4 @@
-# Read: 15 - Diversity and Inclusion
+# Read: Class 15
 
 ## Content
 

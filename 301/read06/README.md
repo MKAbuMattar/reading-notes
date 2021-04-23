@@ -1,4 +1,4 @@
-# Read: 06 - Node, Express, and APIs
+# Read: Class 06
 
 ## Content
 

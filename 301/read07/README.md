@@ -1,4 +1,4 @@
-# Read: 07 - APIs continued
+# Read: Class 07
 
 ## Content
 

@@ -1,4 +1,4 @@
-# Read: 10 - The Call Stack and Debugging
+# Read: Class 10
 
 ## Content
 

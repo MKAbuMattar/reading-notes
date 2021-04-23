@@ -1,4 +1,4 @@
-# Read: 11 - EJS
+# Read: Class 11
 
 ## Content
 

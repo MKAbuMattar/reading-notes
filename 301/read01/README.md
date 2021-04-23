@@ -1,4 +1,4 @@
-# Read: 01 - SMACSS and Responsive Web Design
+# Read: Class 01
 
 ## Content
 

@@ -1,4 +1,4 @@
-# Read: 13 - Update/Delete
+# Read: Class 13
 
 ## Content
 

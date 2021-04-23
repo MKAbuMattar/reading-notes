@@ -1,4 +1,4 @@
-# Read: 05 - Heroku Deployment
+# Read: Class 05
 
 ## Content
 

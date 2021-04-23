@@ -1,4 +1,4 @@
-# Read: 03 - Flexbox and Templating
+# Read: Class 03
 
 ## Content
 

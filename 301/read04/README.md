@@ -1,4 +1,4 @@
-# Read: 04 - Responsive Web Design and Regular Expressions
+# Read: Class 04
 
 ## Content
 

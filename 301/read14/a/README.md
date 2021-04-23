@@ -1,4 +1,4 @@
-# Read: 14a - DB Normalization
+# Read: Class 14
 
 ## Content
 

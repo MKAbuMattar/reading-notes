@@ -96,23 +96,22 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 
 | Content                                | Link |
 | :------------------------------------: | :---------: |
-| Read: 01 - SMACSS and Responsive Web Design | [Link](./301/read01/) |
-| Read: 02 - jQuery, Events, and The DOM | [Link](./301/read02/) |
-| Read: 03 - Flexbox and Templating | [Link](./301/read03/) |
-| Read: 04 - Responsive Web Design and Regular Expressions | [Link](./301/read04/) |
-| Read: 05 - Heroku Deployment	 | [Link](./301/read05/) |
-| Read: 06 - Node, Express, and APIs | [Link](./301/read06/) |
-| Read: 07 - APIs continued | [Link](./301/read07/) |
-| Read: 08 - SQL | [Link](./301/read08/) |
-| Read: 09 - Refactoring | [Link](./301/read09/) |
-| Read: 10 - The Call Stack and Debugging | [Link](./301/read10/) |
-| Read: 11 - EJS | [Link](./301/read11/) |
-| Read: 12 - Components | [Link](./301/read12/) |
-| Read: 13 - Update/Delete | [Link](./301/read13/) |
-| Read: 14a - DB Normalization | [Link](./301/read14/a/) |
-| Read: 14b - Project Ideas & APIs | [Link](./301/read14/b/) |
-| Read: 15 - Diversity and Inclusion | [Link](./301/read15/) |
-
+| Read: Class 01 | [Link](./301/read01/) |
+| Read: Class 02 | [Link](./301/read02/) |
+| Read: Class 03 | [Link](./301/read03/) |
+| Read: Class 04 | [Link](./301/read04/) |
+| Read: Class 05 | [Link](./301/read05/) |
+| Read: Class 06 | [Link](./301/read06/) |
+| Read: Class 07 | [Link](./301/read07/) |
+| Read: Class 08 | [Link](./301/read08/) |
+| Read: Class 09 | [Link](./301/read09/) |
+| Read: Class 10 | [Link](./301/read10/) |
+| Read: Class 11 | [Link](./301/read11/) |
+| Read: Class 12 | [Link](./301/read12/) |
+| Read: Class 13 | [Link](./301/read13/) |
+| Read: Class 14 | [Link](./301/read14/a/) |
+| Read: Class 14 | [Link](./301/read14/b/) |
+| Read: Class 15 | [Link](./301/read15/) |
 
 [Back to Content](#content)
 

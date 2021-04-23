@@ -1,4 +1,4 @@
-# Read: 08 - SQL
+# Read: Class 08
 
 ## Content
 
