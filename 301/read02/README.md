@@ -1,9 +1,4 @@
-# Read: Class 02
-
-## Content
-
-
-
+# Readings: State and Props
 
 ***
 

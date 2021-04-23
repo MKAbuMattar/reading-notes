@@ -1,9 +1,4 @@
-# Read: Class 01
-
-## Content
-
-
-
+# Readings: Introduction to React and Components 
 
 ***
 

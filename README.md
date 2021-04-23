@@ -96,11 +96,11 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 
 | Content                                | Link |
 | :------------------------------------: | :---------: |
-| Read: Class 01 | [Link](./301/read01/) |
-| Read: Class 02 | [Link](./301/read02/) |
-| Read: Class 03 | [Link](./301/read03/) |
-| Read: Class 04 | [Link](./301/read04/) |
-| Read: Class 05 | [Link](./301/read05/) |
+| Read: Class 01 / Readings: Introduction to React and Components | [Link](./301/read01/) |
+| Read: Class 02 / Readings: State and Props | [Link](./301/read02/) |
+| Read: Class 03 / Readings: Passing Functions as Props | [Link](./301/read03/) |
+| Read: Class 04 / Readings: React and Forms | [Link](./301/read04/) |
+| Read: Class 05 / Readings: Putting it all together | [Link](./301/read05/) |
 | Read: Class 06 | [Link](./301/read06/) |
 | Read: Class 07 | [Link](./301/read07/) |
 | Read: Class 08 | [Link](./301/read08/) |

@@ -1,9 +1,4 @@
-# Read: Class 04
-
-## Content
-
-
-
+# Readings: React and Forms
 
 ***
 

@@ -1,9 +1,4 @@
-# Read: Class 03
-
-## Content
-
-
-
+# Readings: Passing Functions as Props
 
 ***
 

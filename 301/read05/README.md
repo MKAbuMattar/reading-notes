@@ -1,9 +1,4 @@
-# Read: Class 05
-
-## Content
-
-
-
+# Readings: Putting it all together
 
 ***
 
