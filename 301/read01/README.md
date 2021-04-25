@@ -5,10 +5,10 @@
 # Content
 
 - [React](#react)
-  - [What is React?](#what-is-react?)
-  - [Why React?](#why-react?)
+  - [What is React?](#what-is-react)
+  - [Why React?](#why-react)
   - [Hello World in React](#hello-world-in-react)
-- [JavaScript Syntax Extension (JSX)](#javascript-syntax-extension-(jsx))
+- [JavaScript Syntax Extension (JSX)](#javascript-syntax-extension-jsx)
 - [Reference](#reference)
 
 ***
