@@ -6,7 +6,7 @@
 
 - [Lifting State Up](#lifting-state-up)
 - [Lists and Keys](#lists-and-keys)
-- [How to Use the Spread Operator](#How-to-use-the-spread-operator)
+- [How to Use the Spread Operator](#how-to-use-the-spread-operator)
 - [Reference](#reference)
 
 ***
