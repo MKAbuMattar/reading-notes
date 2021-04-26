@@ -120,5 +120,3 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 # Code 401 Advanced Software Development
 
 [Back to Content](#content)
-
-<!-- mm -->
