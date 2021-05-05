@@ -105,7 +105,7 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Read: Class 07 / Readings: REST | [Link](./301/read07/) |
 | Read: Class 08 / Readings: APIs | [Link](./301/read08/) |
 | Read: Class 09 / Readings: FUNCTIONAL PROGRAMMING | [Link](./301/read09/) |
-| Read: Class 10 | [Link](./301/read10/) |
+| Read: Class 10 / Readings: In memory storage | [Link](./301/read10/) |
 | Read: Class 11 | [Link](./301/read11/) |
 | Read: Class 12 | [Link](./301/read12/) |
 | Read: Class 13 | [Link](./301/read13/) |
