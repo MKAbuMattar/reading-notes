@@ -103,7 +103,7 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Read: Class 05 / Readings: Putting it all together | [Link](./301/read05/) |
 | Read: Class 06 / Readings: NODE.JS | [Link](./301/read06/) |
 | Read: Class 07 / Readings: REST | [Link](./301/read07/) |
-| Read: Class 08 | [Link](./301/read08/) |
+| Read: Class 08 / Readings: APIs | [Link](./301/read08/) |
 | Read: Class 09 | [Link](./301/read09/) |
 | Read: Class 10 | [Link](./301/read10/) |
 | Read: Class 11 | [Link](./301/read11/) |
