@@ -100,10 +100,10 @@ The status code 200 indicates that all went well, while the status code 201 indi
 
 ## Reference
 
-###1
+### 1
 Ploesser, K. (2019). Which HTTP Status Code to Use for Every CRUD App. [online] Which HTTP Status Code to Use for Every CRUD App | Moesif Blog. Available at: https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/ [Accessed 18 May 2021].
 
-###2
+### 2
 Web Dev Simplified (2019). Build A REST API With Node.js, Express, & MongoDB - Quick. YouTube. Available at: https://www.youtube.com/watch?v=fgTGADljAeg&t=12s&ab_channel=WebDevSimplified [Accessed 18 May 2021].
 
 ***
