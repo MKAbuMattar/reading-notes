@@ -109,8 +109,8 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Read: Class 11 / Readings: Authentication | [Link](./301/read11/) |
 | Read: Class 12 / Readings: Mongo and Mongoose | [Link](./301/read12/) |
 | Read: Class 13 / Readings: CRUD | [Link](./301/read13/) |
-| Read: Class 14 | [Link](./301/read14/a/) |
-| Read: Class 14 | [Link](./301/read14/b/) |
+| Read: Class 14 / Diversity & Inclusion in the Tech Industry | [Link](./301/read14/a/) |
+| Read: Class 14 / Project Ideas| [Link](./301/read14/b/) |
 | Read: Class 15 | [Link](./301/read15/) |
 
 [Back to Content](#content)
