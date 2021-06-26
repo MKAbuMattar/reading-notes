@@ -119,4 +119,44 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 
 # Code 401 Advanced Software Development
 
+| Content                                | Link |
+| :------------------------------------: | :---------: |
+| Read: 01 - Java Basics | [Link](./401/read01/) |
+| Read: 02 - Arrays, Loops, Imports | [Link](./401/read02/) |
+| Read: 03 - Maps, primitives, File I/O | [Link](./401/read03/) |
+| Read: 04 - OOP | [Link](./401/read04/) |
+| Read: 05 - Linked Lists | [Link](./401/read05/) |
+| Read: 06 - Inheritance and Interfaces | [Link](./401/read06/) |
+| Read: 07 - Inheritance day 2 | [Link](./401/read07/) |
+| Read: 08 - OO Design | [Link](./401/read08/) |
+| Read: 09 - WRRC and Java | [Link](./401/read09/) |
+| Read: 10 - Stacks & Queues | [Link](./401/read10/) |
+| Read: 11 - Spring | [Link](./401/read11/) |
+| Read: 12 - Spring RESTful Routing & Static Files | [Link](./401/read12/) |
+| Read: 13 - Related Resources and Integration Testing | [Link](./401/read13/) |
+| Read: 14 - Trees | [Link](./401/read14/) |
+<!-- | Read: 16 - Spring Authentication | [Link](./401/read16/) |
+| Read: 17 - Spring Authorization | [Link](./401/read17/) |
+| Read: 18 - Web App Security | [Link](./401/read18/) |
+| Read: 19 - Spring and Sockets | [Link](./401/read19/) |
+| Read: 26 - Android Fundamentals | [Link](./401/read26/) |
+| Read: 27 - Intents, Activities, and SharedPreferences | [Link](./401/read27/) |
+| Read: 28 - RecyclerView | [Link](./401/read) |
+| Read: 29 - Room | [Link](./401/read) |
+| Read: 30 - Hash Tables | [Link](./401/read) |
+| Read: 31 - Espresso | [Link](./401/read) |
+| Read: 32 - Serverless and Amplify | [Link](./401/read) |
+| Read: 33 - GraphQL @connection | [Link](./401/read) |
+| Read: 34 - Monetization | [Link](./401/read) |
+| Read: 35 - Graphs | [Link](./401/read) |
+| Read: 36 - Cognito | [Link](./401/read) |
+| Read: 37 - S3 | [Link](./401/read) |
+| Read: 38 - Notifications | [Link](./401/read) |
+| Read: 39 - Kinesis | [Link](./401/read) |
+| Read: 41 - Intent Filters | [Link](./401/read) |
+| Read: 42 - Location | [Link](./401/read) |
+| Read: 42 - Ethics in Tech | [Link](./401/read) |
+| Read: 43 - Kinesis & Analytics | [Link](./401/read) |
+| Read: 44 - Monetization | [Link](./401/read) | -->
+
 [Back to Content](#content)
