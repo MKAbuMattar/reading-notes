@@ -1,4 +1,4 @@
-# Read: 02 - Arrays, Loops, Imports
+# Read: 03 - Maps, primitives, File I/O
 
 ## Content
 
