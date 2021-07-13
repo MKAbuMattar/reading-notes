@@ -135,7 +135,7 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Read: 12 - Spring RESTful Routing & Static Files | [Link](./401/read12/) |
 | Read: 13 - Related Resources and Integration Testing | [Link](./401/read13/) |
 | Read: 14 - Trees | [Link](./401/read14/) |
-<!-- | Read: 16 - Spring Authentication | [Link](./401/read16/) |
+| Read: 16 - Spring Authentication | [Link](./401/read16/) |
 | Read: 17 - Spring Authorization | [Link](./401/read17/) |
 | Read: 18 - Web App Security | [Link](./401/read18/) |
 | Read: 19 - Spring and Sockets | [Link](./401/read19/) |
@@ -157,6 +157,6 @@ Hello! 👋 I’m Mohammad Abu Mattar, a Software Engineering 👨‍💻 based 
 | Read: 42 - Location | [Link](./401/read) |
 | Read: 42 - Ethics in Tech | [Link](./401/read) |
 | Read: 43 - Kinesis & Analytics | [Link](./401/read) |
-| Read: 44 - Monetization | [Link](./401/read) | -->
+| Read: 44 - Monetization | [Link](./401/read) |
 
 [Back to Content](#content)
